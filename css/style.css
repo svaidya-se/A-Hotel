@@ -1,0 +1,135 @@
+
+body{
+  margin: 0 0 0 0;
+}
+.bg-image-top {
+  background: url("../images/nature-img.png");
+  background-color: #cccccc;
+  height: 800px;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  margin: 0 0 0 0;
+}
+
+.bg-image-middle {
+  background: url("../images/middle-bg.png");
+  background-color: #cccccc;
+  height: 800px;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  margin: 0 0 0 0;
+}
+
+.bg-image-bottom {
+  background: url("../images/bottom-img.png");
+  background-color: #cccccc;
+  height: 800px;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  margin: 0 0 0 0;
+}
+
+.hotel {
+  display: block;
+  height: 532px;
+  width: 532px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hotel-img {
+  position: absolute;
+  margin-top: 134px;
+  margin-left: 55%;
+}
+
+.pool-image {
+  position: absolute;
+  margin-top: 350px;
+  margin-left: 82px;
+}
+
+.food-image {
+  position: absolute;
+  margin-top: 350px;
+  margin-left: 563px;
+}
+
+.room-image {
+  margin-left: 1041px;
+  margin-top: 350px;
+  position: absolute;
+}
+
+h1 {
+  font-size: 5.625rem;
+  width: 100%;
+  font-family: 'Cardo', serif;
+  color: white;
+  letter-spacing: 18px;
+}
+
+.h2-middle {
+  color: #737373;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  padding-bottom: 10px;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-color: grey;
+  border-width: 9px;
+  height: 0px;
+  width: 5%;
+  margin: auto auto auto auto;
+}
+
+.stay-content {
+  position: absolute;
+  line-height: 0.5;
+  margin-left: 1000px;
+  margin-top: 125px;
+}
+
+.h2-bottom {
+  font-family: 'Cardo', serif;
+  font-size: 2.5rem;
+}
+
+h3 {
+  color: grey;
+}
+
+.heading {
+  position: absolute;
+  margin: 18% 40% 18% 15%;
+  width: 80%;
+  align-content: left;
+  font-size: 120px;
+}
+
+.sub-heading {
+  color: #FFFFFF;
+  position: absolute;
+  font-family: 'Open Sans', sans-serif;
+  margin: 30% 40% 18% 15%;
+  align-content: left;
+  letter-spacing: 6px;
+  font-size: 24px;
+}
